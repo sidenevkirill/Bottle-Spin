@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPurple">#332FA2</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+
+    <!-- blue style gradient -->
+    <color name="bluestartcolor">#47f9fe</color>
+    <color name="blueendcolor">#1295fd</color>
+    <!-- orange style gradient -->
+    <color name="orangestartcolor">#feed64</color>
+    <color name="orangeendcolor">#dda660</color>
+    <!-- pink style gradient -->
+    <color name="pinkestartcolor">#fd75a5</color>
+    <color name="pinkendcolor">#ea1e77</color>
+    <!-- purple style gradient -->
+    <color name="purpleestartcolor">#f75fe1</color>
+    <color name="purpleendcolor">#c425ec</color>
+    <!-- Green style gradient -->
+    <color name="greenstartcolor">#b4fa51</color>
+    <color name="greenndcolor">#78cb29</color>
+
+    <color name="color_primary_white">#E5EAF0</color>
+    <color name="color_primary_solar">#EFE8D5</color>
+    <color name="color_primary_red">#F44236</color>
+    <color name="color_primary_indigo">#3F51B5</color>
+    <color name="color_primary_blue">#2196F3</color>
+    <color name="color_primary_dark_indigo">#36459A</color>
+    <color name="color_primary_fel">#673BB7</color>
+    <color name="color_primary_dark_fel">#58319c</color>
+    <color name="color_primary_green">#009788</color>
+    <color name="color_primary_dark_green">#007F74</color>
+    <color name="color_primary_dark_blue">#1C7FD0</color>
+    <color name="color_primary_dark_red">#D0392E</color>
+    <color name="color_night_solar">#073542</color>
+    <color name="color_nav_red">#FFFFFF</color>
+    <color name="color_refresh">#F5F5F5</color>
+    <color name="color_toolbar_solazed">#9E9E9E</color>
+    <color name="color_refresh_dark">#FF212121</color>
+    <color name="color_refresh_blue">#1D2733</color>
+    <color name="color_refresh_gray">#F0EBEF</color>
+    <color name="color_refresh_milk">#2C2D2F</color>
+    <color name="color_summary">#7B7D80</color>
+    <color name="color_primary_dark">#ffffff</color>
+    <color name="color_accent">#5281B9</color>
+    <color name="color_accent_background">#402196F3</color>
+    <color name="color_menu_white">#ECF5FC</color>
+    <color name="color_menu_solar">#EFE8D5</color>
+    <color name="color_menu_solar_dark">#073542</color>
+    <color name="color_menu_gray">#F0EBEF</color>
+    <color name="color_menu_dark">#FF212121</color>
+    <color name="color_menu_blue">#1D2733</color>
+
+    <!-- Audio placeholder colors   -->
+    <color name="audio_placeholder_background">#F5F5F5</color>
+    <color name="audio_placeholder_icon">#BDBDBD</color>
+    <color name="dark_audio_placeholder_background">#212121</color>
+    <color name="dark_audio_placeholder_icon">#CC757575</color>
+
+    <color name="playlist_placeholder_icon">#C22196F3</color>
+    <color name="playlist_placeholder_background">#2E2196F3</color>
+
+    <!--  Dark Theme colors  -->
+    <color name="night_window_background">#000000</color>
+    <color name="dark_window_background">#121212</color>
+    <color name="milk_window_background">#191919</color>
+    <color name="solar_window_background">#FDF6E3</color>
+    <color name="solar_window_background_dark">#002A36</color>
+    <color name="blue_window_background">#18212B</color>
+    <color name="dark_color_primary">#FF212121</color>
+    <color name="black_color_primary">#000000</color>
+    <color name="dark_color_blue">#1D2733</color>
+    <color name="dark_color_milk">#2C2D2F</color>
+    <color name="dark_color_solor">#EFE8D5</color>
+    <color name="night_color_solor">#073542</color>
+    <color name="dark_nav_primary">#F0EBEF</color>
+
+    <!-- Dark Text Colors -->
+    <color name="primary_text_color">#DE000000</color>
+    <color name="secondary_text_color">#99000000</color>
+    <color name="disabled_text_color">#61000000</color>
+
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="screen_top_margin_1">48dp</dimen>
+    <dimen name="view_top_margin_1">16dp</dimen>
+    <dimen name="padding_1">16dp</dimen>
+    <dimen name="corner_radius_1">16dp</dimen>
+    <dimen name="font_size_1">20sp</dimen>
+    <dimen name="view_horizontal_margin_1">8dp</dimen>
+    <dimen name="font_size_2">18sp</dimen>
+</resources>
